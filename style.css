@@ -118,7 +118,7 @@ p {
     border-radius: 5px;
 }
 #showcase {
-    background: #333 url("img/horse1.webp") no-repeat center center/cover;
+    background: #333 url("img/horse1.jpg") no-repeat center center/cover;
     height: 100vh;
     color: #fff;
 }
